@@ -1,0 +1,70 @@
+{
+  "nav": {
+    "home": "Home",
+    "consultant": "Legal Consultant",
+    "defense": "Defense Lawyer",
+    "judge": "Virtual Judge",
+    "analyst": "Legal Analyst",
+    "financial": "Financial Analyst",
+    "chat": "Quick Advisor",
+    "dashboard": "Dashboard",
+    "admin": "Admin",
+    "pricing": "Pricing",
+    "templates": "Templates",
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "fullName": "Full Name",
+    "phone": "Phone Number",
+    "country": "Country",
+    "language": "Language",
+    "agreeToTerms": "I agree to the Terms and Conditions",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?"
+  },
+  "consultant": {
+    "title": "Legal Consultant",
+    "description": "Get comprehensive legal consultation with risk analysis",
+    "uploadFiles": "Upload Files",
+    "takePhoto": "Take Photo",
+    "analyze": "Analyze",
+    "riskTable": "Risk Table",
+    "copyReport": "Copy Report"
+  },
+  "dashboard": {
+    "welcome": "Welcome",
+    "credits": "Credits",
+    "analyses": "Analyses",
+    "recentActivity": "Recent Activity",
+    "noAnalyses": "No analyses yet"
+  },
+  "pricing": {
+    "title": "Pricing Plans",
+    "basic": "Basic",
+    "pro": "Pro",
+    "premium": "Premium",
+    "credits": "Credits",
+    "buyNow": "Buy Now"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous"
+  }
+}

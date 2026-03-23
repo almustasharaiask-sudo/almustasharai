@@ -1,0 +1,70 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "consultant": "Consultant Juridique",
+    "defense": "Avocat de Défense",
+    "judge": "Juge Virtuel",
+    "analyst": "Analyste Juridique",
+    "financial": "Analyste Financier",
+    "chat": "Conseiller Rapide",
+    "dashboard": "Tableau de Bord",
+    "admin": "Administration",
+    "pricing": "Tarifs",
+    "templates": "Modèles",
+    "login": "Connexion",
+    "signup": "S'inscrire",
+    "logout": "Déconnexion"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Mot de passe",
+    "fullName": "Nom complet",
+    "phone": "Numéro de téléphone",
+    "country": "Pays",
+    "language": "Langue",
+    "agreeToTerms": "J'accepte les termes et conditions",
+    "signIn": "Se connecter",
+    "signUp": "S'inscrire",
+    "forgotPassword": "Mot de passe oublié ?",
+    "noAccount": "Pas de compte ?",
+    "haveAccount": "Déjà un compte ?"
+  },
+  "consultant": {
+    "title": "Consultant Juridique",
+    "description": "Obtenez une consultation juridique complète avec analyse des risques",
+    "uploadFiles": "Télécharger des fichiers",
+    "takePhoto": "Prendre une photo",
+    "analyze": "Analyser",
+    "riskTable": "Table des Risques",
+    "copyReport": "Copier le Rapport"
+  },
+  "dashboard": {
+    "welcome": "Bienvenue",
+    "credits": "Crédits",
+    "analyses": "Analyses",
+    "recentActivity": "Activité Récente",
+    "noAnalyses": "Aucune analyse pour le moment"
+  },
+  "pricing": {
+    "title": "Plans Tarifaires",
+    "basic": "Basique",
+    "pro": "Pro",
+    "premium": "Premium",
+    "credits": "Crédits",
+    "buyNow": "Acheter Maintenant"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "success": "Succès",
+    "cancel": "Annuler",
+    "confirm": "Confirmer",
+    "save": "Sauvegarder",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "view": "Voir",
+    "back": "Retour",
+    "next": "Suivant",
+    "previous": "Précédent"
+  }
+}

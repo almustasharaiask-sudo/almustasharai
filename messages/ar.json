@@ -1,0 +1,70 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "consultant": "محامي استشاري",
+    "defense": "محامي دفاع",
+    "judge": "قاضي افتراضي",
+    "analyst": "محلل قانوني",
+    "financial": "محلل مالي",
+    "chat": "مستشار فوري",
+    "dashboard": "لوحة التحكم",
+    "admin": "الإدارة",
+    "pricing": "الأسعار",
+    "templates": "النماذج",
+    "login": "تسجيل الدخول",
+    "signup": "إنشاء حساب",
+    "logout": "تسجيل الخروج"
+  },
+  "auth": {
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "fullName": "الاسم الكامل",
+    "phone": "رقم الهاتف",
+    "country": "الدولة",
+    "language": "اللغة",
+    "agreeToTerms": "أوافق على الشروط والأحكام",
+    "signIn": "تسجيل الدخول",
+    "signUp": "إنشاء حساب",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "noAccount": "ليس لديك حساب؟",
+    "haveAccount": "لديك حساب بالفعل؟"
+  },
+  "consultant": {
+    "title": "محامي استشاري",
+    "description": "احصل على استشارة قانونية شاملة مع تحليل المخاطر",
+    "uploadFiles": "رفع الملفات",
+    "takePhoto": "التقاط صورة",
+    "analyze": "تحليل",
+    "riskTable": "جدول المخاطر",
+    "copyReport": "نسخ التقرير"
+  },
+  "dashboard": {
+    "welcome": "مرحباً",
+    "credits": "الرصيد",
+    "analyses": "التحليلات",
+    "recentActivity": "النشاط الأخير",
+    "noAnalyses": "لا توجد تحليلات بعد"
+  },
+  "pricing": {
+    "title": "خطط الأسعار",
+    "basic": "أساسي",
+    "pro": "محترف",
+    "premium": "مميز",
+    "credits": "رصيد",
+    "buyNow": "اشترِ الآن"
+  },
+  "common": {
+    "loading": "جارٍ التحميل...",
+    "error": "حدث خطأ",
+    "success": "تم بنجاح",
+    "cancel": "إلغاء",
+    "confirm": "تأكيد",
+    "save": "حفظ",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "view": "عرض",
+    "back": "العودة",
+    "next": "التالي",
+    "previous": "السابق"
+  }
+}
