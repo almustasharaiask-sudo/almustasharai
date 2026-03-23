@@ -163,3 +163,15 @@ h1, h2, h3, h4, h5, h6 {
 .gradient-purple-pink {
   background: linear-gradient(135deg, #9333ea 0%, #ec4899 100%);
 }
+
+body {
+  background: linear-gradient(135deg, #f5f7fa 0%, #e9ecef 100%);
+}
+
+.btn-primary {
+  @apply bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition-all duration-200 shadow-md hover:shadow-lg;
+}
+
+.card {
+  @apply bg-white rounded-2xl shadow-md border border-gray-100 p-6 hover:shadow-lg transition-shadow duration-200;
+}

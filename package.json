@@ -1,60 +1,44 @@
 {
-  "name": "mustashar-ai",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "dev": "TURBOPACK=0 next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
-  "dependencies": {
-    "@formatjs/intl-localematcher": "^0.5.4",
-    "@google/generative-ai": "^0.2.0",
-    "@supabase/auth-helpers-nextjs": "^0.6.0",
-    "@supabase/supabase-js": "^2.39.0",
-    "@tiptap/react": "^2.2.4",
-    "@tiptap/starter-kit": "^2.2.4",
-    "clsx": "^2.0.0",
-    "html2pdf.js": "^0.14.0",
-    "mammoth": "^1.4.2",
-    "negotiator": "^0.6.3",
-    "next": "^15.0.0",
-    "next-intl": "^3.26.0",
-    "pdf-img-convert": "^1.2.1",
-    "pdf-parse": "^1.1.1",
-    "react": "^18.2.0",
-    "react-datepicker": "^7.3.0",
-    "react-dom": "^18.2.0",
-    "react-dropzone": "^14.2.3",
-    "react-hot-toast": "^2.4.1",
-    "react-webcam": "^7.2.0",
-    "recharts": "^2.12.0",
-    "sharp": "^0.33.0",
-    "tailwind-merge": "^2.0.0"
-  },
-  "devDependencies": {
-    "@types/negotiator": "^0.6.3",
-    "@types/node": "^20.11.0",
-    "@types/react": "^18.2.0",
-    "@types/react-dom": "^18.2.0",
-    "autoprefixer": "^10.4.17",
-    "postcss": "^8.4.35",
-    "tailwindcss": "^3.4.1",
-    "typescript": "^5.3.0"
-  },
-  "description": "أول منصة ذكاء اصطناعي متكاملة للقانون والائتمان في العالم العربي، تدعم 22 دولة و3 لغات.",
-  "main": "next.config.js",
-  "type": "module",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/almustasharaiask-sudo/almustasharai.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/almustasharaiask-sudo/almustasharai/issues"
-  },
-  "homepage": "https://github.com/almustasharaiask-sudo/almustasharai#readme"
+    "name": "mustashar-ai",
+      "version": "1.0.0",
+        "private": true,
+          "scripts": {
+              "dev": "next dev",
+                  "build": "next build",
+                      "start": "next start",
+                          "lint": "next lint"
+                            },
+                              "dependencies": {
+                                  "@supabase/supabase-js": "^2.39.0",
+                                      "@google/generative-ai": "^0.2.0",
+                                          "react-dropzone": "^14.2.3",
+                                              "react-webcam": "^7.2.0",
+                                                  "pdf-parse": "^1.1.1",
+                                                      "mammoth": "^1.4.2",
+                                                          "html2pdf.js": "^0.10.1",
+                                                              "recharts": "^2.12.0",
+                                                                  "@tiptap/react": "^2.2.4",
+                                                                      "@tiptap/starter-kit": "^2.2.4",
+                                                                          "next": "14.2.4",
+                                                                              "react": "^18.2.0",
+                                                                                  "react-dom": "^18.2.0",
+                                                                                      "next-intl": "^3.17.4",
+                                                                                          "react-hot-toast": "^2.4.1",
+                                                                                              "negotiator": "^0.6.3",
+                                                                                                  "@formatjs/intl-localematcher": "^0.5.4",
+                                                                                                      "react-datepicker": "^7.3.0",
+                                                                                                          "pdf-img-convert": "^1.1.1",
+                                                                                                              "sharp": "^0.33.0"
+                                                                                                                },
+                                                                                                                  "devDependencies": {
+                                                                                                                      "@types/node": "^20.11.0",
+                                                                                                                          "@types/react": "^18.2.0",
+                                                                                                                              "@types/react-dom": "^18.2.0",
+                                                                                                                                  "typescript": "^5.3.0",
+                                                                                                                                      "tailwindcss": "^3.4.1",
+                                                                                                                                          "autoprefixer": "^10.4.17",
+                                                                                                                                              "postcss": "^8.4.35",
+                                                                                                                                                  "@types/negotiator": "^0.6.3"
+                                                                                                                                                    }
+                                                                                                                                                    }
 }
