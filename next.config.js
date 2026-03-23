@@ -1,9 +1,13 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  swcMinify: true,
   images: {
-    domains: ['jrdcacxxdtarddejvytc.supabase.co'],
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'jrdcacxxdtarddejvytc.supabase.co',
+      },
+    ],
   },
   async headers() {
     return [
@@ -25,11 +29,6 @@ const nextConfig = {
   experimental: {
     serverActions: {
       bodySizeLimit: '10mb',
-    },
-  },
-  api: {
-    bodyParser: {
-      sizeLimit: '10mb',
     },
   },
 };
