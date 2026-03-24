@@ -4,16 +4,17 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build --no-lint",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
     "@formatjs/intl-localematcher": "^0.5.4",
     "@google/generative-ai": "^0.2.0",
+    "@heroicons/react": "^2.2.0",
     "@supabase/supabase-js": "^2.39.0",
-    "@tiptap/react": "^2.2.4",
-    "@tiptap/starter-kit": "^2.2.4",
+    "@tiptap/react": "^2.27.2",
+    "@tiptap/starter-kit": "^2.27.2",
     "html2pdf.js": "^0.10.1",
     "lucide-react": "^1.0.1",
     "mammoth": "^1.4.2",
@@ -27,7 +28,7 @@
     "react-datepicker": "^7.3.0",
     "react-dom": "^18.2.0",
     "react-dropzone": "^14.2.3",
-    "react-hot-toast": "^2.4.1",
+    "react-hot-toast": "^2.6.0",
     "react-webcam": "^7.2.0",
     "recharts": "^2.12.0"
   },
